@@ -1,12 +1,12 @@
 <div align="center">
 
-## Hola<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>🎉
+# Hola<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>🎉
 
 Mi nombre es **Rafael Pajuelo** y te doy la bienvenida a mi perfil.
 
 Apasionado por el desarrollo de software y la creación de soluciones digitales . Especializado en tecnologías web front-end como HTML, CSS, JavaScript, TypeScript y Angular, así como en el backend con Java Spring Boot. Constante aprendiz y entusiasta autodidacta, siempre en busca de desafíos que me permitan seguir creciendo en el mundo del desarrollo de software.
 
-#### **Mis Habilidades 🛠️**
+## **Mis Habilidades 🛠️**
 
 
 
@@ -97,7 +97,7 @@ Apasionado por el desarrollo de software y la creación de soluciones digitales 
   </kbd>
 </p>
 
-### **&nbsp;Contacto 🤝🏻**
+## **&nbsp;Contacto 🤝🏻**
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-test-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
