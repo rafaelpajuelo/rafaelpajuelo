@@ -45,7 +45,7 @@ Apasionado por el desarrollo de software y la creación de soluciones digitales 
     <kbd>Bases de datos Sql|NoSql</kbd>
     <br>
     <br>
-    <img width="70px" src="	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img width="70px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img width="90px" height="20px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
        <img width="79px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   </kbd>
