@@ -4,7 +4,7 @@
 
 Mi nombre es **Rafael Pajuelo** y te doy la bienvenida a mi perfil.
 
-Apasionado por el desarrollo de software y la creación de soluciones digitales . Especializado en tecnologías web front-end como HTML, CSS, JavaScript, TypeScript y Angular, así como en el backend con Java Spring Boot. Constante aprendiz y entusiasta autodidacta, siempre en busca de desafíos que me permitan seguir creciendo en el mundo del desarrollo de software.
+Constante aprendiz y entusiasta autodidacta, siempre en busca de desafíos que me permitan seguir creciendo en el mundo del desarrollo de software.
 
 ## **Mis Habilidades 🛠️**
 
