@@ -2,10 +2,7 @@
 
 # Hola<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>🎉
 
-Mi nombre es **Rafael Pajuelo** y te doy la bienvenida a mi perfil.
-
-
-Desarrollador de software enfocado en soluciones cloud 
+Mi nombre es **Rafael Pajuelo** y te doy la bienvenida a mi perfil. <br> Desarrollador de software enfocado en soluciones cloud 
 
 ## **Mis Habilidades 🛠️**
 
