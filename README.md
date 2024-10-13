@@ -17,12 +17,12 @@ Desarrollador de software enfocado en soluciones cloud
     <br>
     <br>
     <img width="140px" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=for-the-badge"/>
-    <img width="75px" src="https://img.shields.io/badge/Amazon%20EC2-232F3E?logo=amazonec2&logoColor=fff&style=for-the-badge"/>
-    <img width="75px" src="https://img.shields.io/badge/Amazon%20S3-232F3E?logo=amazons3&logoColor=fff&style=for-the-badge"/>
-    <img width="82px" src="https://img.shields.io/badge/Amazon%20RDS-232F3E?logo=amazonrds&logoColor=fff&style=for-the-badge"/>
-     <img width="110px" src="https://img.shields.io/badge/Amazon%20Route%2053-232F3E?logo=amazonroute53&logoColor=fff&style=for-the-badge"/>
-    <img width="120px" src="https://img.shields.io/badge/Amazon%20DocumentDB-232F3E?logo=amazondocumentdb&logoColor=fff&style=for-the-badge"/>
-    <img width="190px" src="https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-232F3E?logo=amazoniam&logoColor=fff&style=for-the-badge"/>
+    <img width="90px" src="https://img.shields.io/badge/Amazon%20EC2-232F3E?logo=amazonec2&logoColor=fff&style=for-the-badge"/>
+    <img width="85px" src="https://img.shields.io/badge/Amazon%20S3-232F3E?logo=amazons3&logoColor=fff&style=for-the-badge"/>
+    <img width="92px" src="https://img.shields.io/badge/Amazon%20RDS-232F3E?logo=amazonrds&logoColor=fff&style=for-the-badge"/>
+     <img width="120px" src="https://img.shields.io/badge/Amazon%20Route%2053-232F3E?logo=amazonroute53&logoColor=fff&style=for-the-badge"/>
+    <img width="135px" src="https://img.shields.io/badge/Amazon%20DocumentDB-232F3E?logo=amazondocumentdb&logoColor=fff&style=for-the-badge"/>
+    <img width="220px" src="https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-232F3E?logo=amazoniam&logoColor=fff&style=for-the-badge"/>
     <img width="60px" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"/>
       <img width="80px" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge"/>
   </kbd>
