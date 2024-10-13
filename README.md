@@ -4,7 +4,8 @@
 
 Mi nombre es **Rafael Pajuelo** y te doy la bienvenida a mi perfil.
 
-Constante aprendiz y entusiasta autodidacta, siempre en busca de desafíos que me permitan seguir creciendo en el mundo del desarrollo de software.
+
+Desarrollador de software enfocado en soluciones cloud 
 
 ## **Mis Habilidades 🛠️**
 
