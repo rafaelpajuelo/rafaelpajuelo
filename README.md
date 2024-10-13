@@ -30,9 +30,9 @@ Desarrollador de software enfocado en soluciones cloud
     <kbd> back-end Librerías|FrameWorks</kbd>
     <br>
     <br>
-       <img width="65px" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-     <img width="65px" src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" /> 	
-     <img width="80px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /> 
+       <img width="65px" src="https://img.shields.io/badge/Node%20js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+     <img width="65px" src="https://img.shields.io/badge/ts--node-000000?style=for-the-badge&logo=ts-node&logoColor=white" /> 	
+     <img width="90px" src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot" /> 
      <img width="85px" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
       <img width="48px" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /> 
   </kbd>
@@ -40,9 +40,9 @@ Desarrollador de software enfocado en soluciones cloud
     <kbd>Lenguajes de programación</kbd>
     <br>
     <br>
-    <img width="80px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img width="80px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img width="48px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img width="75px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img width="75px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img width="48px" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
   </kbd>
   <kbd>
     <kbd>Front-end Librerías|FrameWorks|Herramientas</kbd>
@@ -62,9 +62,9 @@ Desarrollador de software enfocado en soluciones cloud
     <kbd>Bases de datos Sql|NoSql</kbd>
     <br>
     <br>
-    <img width="60px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img width="90px" height="19px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-       <img width="70px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img width="60px" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img width="90px" height="19px" src="https://img.shields.io/badge/Microsoft_SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+       <img width="70px" src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
   </kbd>
 
 
